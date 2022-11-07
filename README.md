@@ -1,0 +1,6 @@
+# Auto-insurance-fraud-claim
+Auto insurance claims are a huge problem for the industry. A lot of people will claim that they have been in an accident, but there may not be any proof that it happened. The issue is that the insurance company has to pay for those claims, and it can hurt their bottom line.
+
+Insurance fraud is a deliberate deception perpetrated against or by an insurance company or agent for the purpose of financial gain. Fraud may be committed at different points in the transaction by applicants, policyholders, third-party claimants, or professionals who provide services to claimants. Insurance agents and company employees may also commit insurance fraud.The problem is that it is difficult to distinguish between legitimate accidents and false claims.
+
+Auto insurance claims are a huge hassle for both insurers and claimants. The process is time-consuming and complicated. Using machine learning have develop a classification model to predict which claims are likely to be fraudulent for an insurace company. The information so optatined fromk the model will be usefull to narrow the list which as to further checked. It enables the insurerance company to detect more fraudulent claims before processing the claims.It can help streamline the auto insurance fraud detection process.
